@@ -1,4 +1,4 @@
-$ curl -I "https://api.github.com/search/code?q=addClass+user: google"
+$ curl -I "https://api.github.com/search/code?q=addClass+user: Ambiente"
 
 # Teste
 
